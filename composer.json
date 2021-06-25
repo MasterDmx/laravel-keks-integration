@@ -1,0 +1,20 @@
+{
+    "name": "masterdmx/laravel-keks-integration",
+    "description": "KEKS CRM",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Krening",
+            "email": "masterdmx3325@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MasterDmx\\LaravelKeks\\": "app/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {},
+    "version": "1.0.0"
+}
